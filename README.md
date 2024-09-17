@@ -1,7 +1,7 @@
 # Coursera-Data-Visualization-with-Python
 This repository contains Jupyter notebooks from the Coursera Data Visualizations with Python course, instructed by IBM.
 
--- TYPES OF VISUALIZATIONS AND WHAT DATA FITS BEST WITHIN IT --------------------------------------------------------------------------------
+## TYPES OF VISUALIZATIONS AND WHAT DATA FITS BEST WITHIN IT
 -Line Plots:  These plots feature a continuous line where it only goes one direction to depict a trend.
               The types of data that fit bests are numerical data and date/time data.
               
@@ -15,7 +15,7 @@ This repository contains Jupyter notebooks from the Coursera Data Visualizations
 
 -Histogram:  This plot is great for visualizing the distribution of a sample or data set with the use of boxes representing the 'binning' of              observations for quantitative data.
 
--- DIFFERENT PLOT LIBRARIES AND WHAT THEY'RE GOOD AT ----------------------------------------------------------------------------------------
+## DIFFERENT PLOT LIBRARIES AND WHAT THEY'RE GOOD AT
 -Matplotlib:  It possessess the most common types of plots for general use. It's sorta like a Toyota Sedan, it's reliable but not really                   remarkable.
 
 -Pandas:      It is built upon Matplotlib but possessess the excellent data manipulation attributes of Pandas, making it great for initial                 data explortation through visualizations. 
