@@ -6,7 +6,7 @@ This repository contains Jupyter notebooks from the Coursera Data Visualizations
 These plots feature a continuous line where it only goes one direction to depict a trend.
 The types of data that fit bests are numerical data and date/time data.
               
--Bar Plots:   
+# Bar Plots:   
 These plots features one or more vertical or horizontal bars that visualize the count or frequencies of a categorical variable               to show differences amongs different groups.
 As stated prior, categorical data is best suited for being visualized by this type of plot.
 
